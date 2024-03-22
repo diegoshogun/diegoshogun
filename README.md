@@ -11,7 +11,9 @@
 
 <h2>📜 Certifications </h2>
 
-  - [ITIL 4 Foundation](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
+  - [ITIL 4 Foundation (February 2023)](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
+  - [Cisco CCNA (In Progress)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+  - [CompTIA Security+ (In Progress)](https://www.comptia.org/certifications/security)
 
 
 <!--
